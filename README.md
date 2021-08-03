@@ -1,7 +1,7 @@
 # 1-D-CNN-Multilabel-Classification
 
 ## Ссылка
-nbviewer.jupyter.org: [1-D-CNN-Multilabel-Classification](https://nbviewer.jupyter.org/github/svvema/1-D-CNN-Multilabel-Classification/)
+Main: [1-D-CNN-Multilabel-Classification](https://github.com/svvema/1-D-CNN-Multilabel-Classification/blob/main/signal_work.ipynb)
 
 ## Используемые библиотеки
 *pandas, torch, matplotlib, numpy, csv, sklearn.model_selection, zipfile, pyvisa*
